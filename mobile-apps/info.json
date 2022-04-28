@@ -1,8 +1,5 @@
 {
-    // When there are breaking changes to the app
     "latestMajorVersion": "3.3.1",
-    // The app will be forced into maintanance mode
     "maintenanceMode": false,
-    // Maintenance message to display to the user
     "maintenanceModeMessage": ""
 }
